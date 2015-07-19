@@ -13,7 +13,7 @@
     "atom": ">0.50.0"
   },
   "dependencies": {},
-  "readmeFilename": "",
+  "readmeFilename": "https://github.com/Dgame/atom-php-analyser/blob/master/README.md",
   "bugs": {
     "url": "https://github.com/Dgame/atom-php-analyser/issues"
   },
