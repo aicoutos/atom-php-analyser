@@ -1,0 +1,20 @@
+{
+    "name": "php-analyser",
+    "linter-package": true,
+    "main": "./lib/init",
+    "description": "Analyse your PHP-Code",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/Dgame/atom-php-analyser"
+    },
+    "license": "Zlib",
+    "engines": {
+        "atom": ">0.50.0"
+    },
+    "dependencies": { },
+    "readmeFilename": "",
+    "bugs": {
+        "url": "https://github.com/Dgame/atom-php-analyser/issues"
+    },
+    "homepage": "https://github.com/Dgame/atom-php-analyser"
+}
