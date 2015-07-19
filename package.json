@@ -1,7 +1,7 @@
 {
   "name": "php-analyser",
   "linter-package": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "./lib/init",
   "description": "Analyse your PHP-Code",
   "repository": {
