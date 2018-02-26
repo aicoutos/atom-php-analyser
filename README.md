@@ -1,4 +1,4 @@
-# atom-php-analyser
+# php-analyser
 
 **You need the [PHP-Analyser](https://github.com/Dgame/PHP-Analyser) package**
 
